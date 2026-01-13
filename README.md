@@ -14,7 +14,7 @@
 
 ---
 
-- 🔭 my rojects (https://github.com/maiissh?tab=repositories)
+- 🔭 my projects (https://github.com/maiissh?tab=repositories)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mais-shande-135302257) 
